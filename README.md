@@ -1,4 +1,4 @@
-### Hi there, I'm Salah Eddine - aka [Salah Eddine][website] ✌
+### Hi there, I'm Salah Eddine - [Salah Eddine][website] ✌
 
 [![Website](https://img.shields.io/website?label=aitbalkacem-salaheddine.com&style=for-the-badge&url=https%3A%2F%2Faitbalkacem-salaheddine.com)](https://aitbalkacem-salaheddine.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SalahEddine12_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSalahEddine12&screen_name=SalahEddine12_)
